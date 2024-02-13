@@ -5281,7 +5281,8 @@ button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
 .bg-light {
-  background-color: #f8f9fa !important; }
+  background-color: #f8f9fa !important;
+ }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
@@ -8483,7 +8484,7 @@ h1, h2, h3, h4, h5,
           background: #fff; }
 
 .bg-light {
-  background: #f7f6f2 !important; }
+  background: #90EE90 !important; }
 
 .bg-primary {
   background: #82ae46; }
@@ -9184,7 +9185,8 @@ textarea.form-control {
 
 .goto-here {
   width: 100%;
-  display: block; }
+  display: block;
+background-color:#90ee90; }
 
 .about-author .desc h3 {
   font-size: 24px; }
@@ -9249,7 +9251,8 @@ textarea.form-control {
       color: #000000; }
 
 #map {
-  width: 100%; }
+  width: 100%;
+background-color: red; }
   @media (max-width: 991.98px) {
     #map {
       height: 300px; } }
@@ -9792,6 +9795,8 @@ textarea.form-control {
   border: 1px solid #ccc;
   font-size: 11px; }
   .tagcloud a:hover {
+    color:white;
+    background-color: #0b2e13;
     border: 1px solid #000; }
 
 .comment-form-wrap {
